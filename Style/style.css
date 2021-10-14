@@ -1,0 +1,18 @@
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(65, 65, 236);
+}
+
+h2 {
+    font-size: x-large;
+    font-weight: 300;
+    color: burlywood;
+}
+
+p {
+    font-weight: normal;
+    text-align: justify;
+    text-decoration: burlywood;
+}
